@@ -1,0 +1,25 @@
+﻿# Assessment materials
+training.csv.gz
+testing.csv.gz
+submission.csv
+project_writeup.pdf
+ai_prompts.md
+*Project Brief*
+SUBMISSION.md
+
+# Data and outputs
+data/
+*.csv.gz
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
